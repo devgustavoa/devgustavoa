@@ -1,36 +1,18 @@
-<h2 align="center">Hi there! I'm Gustavo, welcome to my profile!</h2>
+# Hi there 👋! I'm Gustavo, welcome to my profile!
 
-
-
-<div align="center">
-
-  <h3> My Interests </h3>
-
-  <b>Backend Development</b><br>
-  <b>Software Architecture & Systems Design</b></br>
-  <b>Linux/Unix-like Systems Programming</b><br>
-  <b>Computer Networks, Operating Systems & Database Internals</b><br>
-
-</div>
+## Interests
+- Backend Development
+- Software Architecture & Systems Design
+- Linux/Unix-like Systems Programming
+- Computer Networks, Operating Systems & Database Engineering
 
 ---
 
-<div align="center">
+## Techs
 
-  <h3> Techs I like/use </h3>
-
-</div>
-
-
-
-<p align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,linux,arch,c,bash,go,cs,dotnet,docker,kubernetes" />
-  </a> </br>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,rabbitmq,postgres,mongodb,cassandra,redis,git,gitlab,azure,aws" />
-  </a>
-
-</p>
+#### Hyperfocus
+[![My Skills](https://skillicons.dev/icons?i=neovim,arch,c,go)](https://skillicons.dev)
+#### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,kubernetes,rabbitmq)](https://skillicons.dev)
+#### Other Techs
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,cassandra,redis,git,azure,kafka,ngnix)](https://skillicons.dev)
