@@ -6,7 +6,6 @@
 - Computer Networks, Operating Systems & Database Engineering
 ---
 ## Techs
-
 #### Hyperfocus
 [![My Skills](https://skillicons.dev/icons?i=neovim,arch,c,go)](https://skillicons.dev)
 #### Tech Stack
