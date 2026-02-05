@@ -1,10 +1,13 @@
 # Hi there 👋! I'm Gustavo, welcome to my profile!
+
 ## Interests
 - Backend Development
 - Software Architecture & Systems Design
 - Linux/Unix-like Systems Programming
 - Computer Networks, Operating Systems & Database Engineering
+
 ---
+
 ## Techs
 #### Hyperfocus
 [![My Skills](https://skillicons.dev/icons?i=neovim,arch,c,go)](https://skillicons.dev)
