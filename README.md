@@ -1,5 +1,4 @@
 # Hi there 👋! I'm Gustavo, welcome to my profile!
-
 ## Interests
 
 - Backend Development
@@ -10,7 +9,6 @@
 ---
 
 ## Techs
-
 #### Hyperfocus
 [![My Skills](https://skillicons.dev/icons?i=neovim,arch,c,go)](https://skillicons.dev)
 
