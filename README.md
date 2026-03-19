@@ -17,15 +17,14 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 ## Main interests
 
 - Linux kernel development and general embedded systems programming
-- Software architecture and solutions design
-- Mathematics (Abstract Algebra and Analysis) & Physics (Quantum Mechanics)
-- Music theory
+- Software architecture and backend development
+- Mathematics (Abstract Algebra and Real Analysis)
 
 ---
 
 ## Technologies
 
-#### Hyperfocus
+#### Hyprfocus
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,arch,linux,c,elixir)](https://skillicons.dev)
 
@@ -33,5 +32,5 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,java,spring)](https://skillicons.dev)
 
-#### Other tools
+#### Infra
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,bash,terraform,jenkins)](https://skillicons.dev)
